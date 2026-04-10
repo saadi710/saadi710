@@ -11,6 +11,6 @@ I combine strong software engineering skills with applied AI to create efficient
 If you're looking to implement AI in your business or need an AI engineer for your project, feel free to reach out.
 
 Fun Facts:
-- I'm a sports enthusiast who enjoys Football, MMA, and Formula 1
+- I'm a sports enthusiast 
 - Passionate about turning complex business challenges into simple AI-powered solutions
 - Always eager to explore new technologies and methodologies in the AI space
